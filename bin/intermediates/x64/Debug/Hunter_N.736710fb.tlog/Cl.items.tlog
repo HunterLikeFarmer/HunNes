@@ -1,0 +1,11 @@
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\6502.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\6502.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Controller.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\Controller.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\main.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\main.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Mapper\CNROM.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\CNROM.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Mapper\Mapper.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\Mapper.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Mapper\MMC1.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\MMC1.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Mapper\NROM.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\NROM.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\Mapper\UnROM.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\UnROM.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\PPU.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\PPU.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\RAM.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\RAM.obj
+C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\Hunter_NES_Emulator\src\ROM.cpp;C:\Users\hunterJ\Desktop\Hunter_NES_Emulator\bin\intermediates\x64\Debug\ROM.obj

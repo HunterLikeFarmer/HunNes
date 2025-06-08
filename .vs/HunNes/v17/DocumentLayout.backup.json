@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hunterJ\\Desktop\\HunNes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\ROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\6502.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.hpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\ROM.hpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\main.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\main.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\PPU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.hpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\6502.hpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\RAM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\RAM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\PPU.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\INESBus.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\INESBus.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Controller.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{736710FB-C8FA-4584-9413-AF5FAE9862DB}|Hunter_NES_Emulator\\Hunter_NES_Emulator.vcxproj|solutionrelative:Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnROM.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\UnROM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T22:45:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnROM.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\UnROM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T22:45:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NROM.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\NROM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T22:45:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NROM.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\NROM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T22:45:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Controller.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Controller.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Controller.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T22:44:47.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Controller.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Controller.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Controller.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Controller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T22:44:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MMC1.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\MMC1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T21:27:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CNROM.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\CNROM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T21:24:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CNROM.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\CNROM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T21:24:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapper.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\Mapper.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T21:24:08.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapper.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\Mapper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T21:24:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ROM.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\ROM.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\ROM.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T20:45:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6502.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\6502.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\6502.cpp",
+              "ViewState": "AgIAAJ8DAAAAAAAAAAAAAM8DAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T21:26:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MMC1.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\Mapper\\MMC1.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T21:28:11.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ROM.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\ROM.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\ROM.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\ROM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-01T21:26:55.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PPU.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\PPU.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\PPU.hpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAALcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T21:48:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PPU.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\PPU.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\PPU.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\PPU.cpp",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAjwAsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T06:55:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\main.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\main.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\main.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAjwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T22:32:25.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "6502.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\6502.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\6502.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\6502.hpp",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAABkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-01T21:26:55.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RAM.cpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.cpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\RAM.cpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.cpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\RAM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T06:56:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RAM.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\RAM.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\RAM.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\RAM.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T06:56:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "INESBus.hpp",
+              "DocumentMoniker": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\INESBus.hpp",
+              "RelativeDocumentMoniker": "Hunter_NES_Emulator\\src\\INESBus.hpp",
+              "ToolTip": "C:\\Users\\hunterJ\\Desktop\\HunNes\\Hunter_NES_Emulator\\src\\INESBus.hpp",
+              "RelativeToolTip": "Hunter_NES_Emulator\\src\\INESBus.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T19:46:41.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
